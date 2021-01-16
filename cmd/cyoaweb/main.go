@@ -5,6 +5,8 @@ import (
 	"flag"
 	"fmt"
 	"os"
+
+	"github.com/Brotchu/cyoa"
 )
 
 func main() {
